@@ -4,9 +4,9 @@ Studuju informatiku na **VŠB-TUO**. Na programování mě nejvíc baví ten poc
 
 **Můj přístup:** Preferuji funkční řešení – postavit stabilní základ a ten následně iterativně vylepšovat a optimalizovat.
 
-- 🔭 **Právě pracuji na:** [Doplň název projektu, nebo smaž tuhle odrážku]
+- 🔭 **Právě pracuji na:**
 - 🌱 **Učím se:** Git, Ionic
-- ⚽ **Mimo kód:** Hraju a trénuju florbal, chodím do gymu
+- ⚽ **Mimo kód:** Floorball player and coach, gymrat
 
 ---
 
