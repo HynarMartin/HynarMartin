@@ -13,7 +13,7 @@ Jsem nadšenec do technologií a začínající vývojář. Baví mě řešit pr
 ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ### 📬 Kde mě najdete
-[LinkedIn](odkaz-na-tvuj-linkedin) | [Osobní web](odkaz-na-web)
+[LinkedIn](www.linkedin.com/in/martin-hýnar-3070b32a5) | [Osobní web](odkaz-na-web)
 
 ### 🛠 Technologie a nástroje
 
