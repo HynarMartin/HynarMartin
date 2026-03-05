@@ -14,3 +14,5 @@ Jsem nadšenec do technologií a začínající vývojář. Baví mě řešit pr
 
 ### 📬 Kde mě najdete
 [LinkedIn](odkaz-na-tvuj-linkedin) | [Osobní web](odkaz-na-web)
+
+![HynarMartin's GitHub stats](https://github-readme-stats.vercel.app/api?username=HynarMartin&show_icons=true&theme=radical)
