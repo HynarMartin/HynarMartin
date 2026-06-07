@@ -5,7 +5,7 @@ I'm a Computer Science student at **VŠB-TUO**. What I enjoy most about programm
 **My approach:** I prefer functional solutions—building a stable foundation and then iteratively improving and optimizing it.
 
 - 🔭 **Currently working on:** 
-- 🌱 **Learning:** Git, Ionic
+- 🌱 **Learning:** Ionic
 - ⚽ **Outside of code:** Floorball player & coach, gymrat
 
 ---
